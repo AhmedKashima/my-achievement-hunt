@@ -1,1 +1,1 @@
-# my-achievement-hunt
+LICENSE
